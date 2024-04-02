@@ -16,3 +16,5 @@ doorhashes on doorhashes.txt
 ![bank_vault1](https://github.com/zetafe1/arm_bank_vault/assets/79672264/fbad5f66-f639-4766-acbd-14563530a6ba)
 
 
+VAULT FIX by Tafé 
+PROPS PLACED by Pers 
