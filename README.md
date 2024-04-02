@@ -1,6 +1,13 @@
-# ARMADILLO BANK VAULT 
+![imagem](https://github.com/zetafe1/arm_bank_vault/assets/79672264/97cdf2f7-c6b1-4788-be9f-8eb2a9f3514e)# ARMADILLO BANK VAULT 
 
 drag and drop the files in some stream folder
+
+vault's door starts loocked 
+
+doorhashes on doorhashes.txt 
+
+
+![bank_vault4](https://github.com/zetafe1/arm_bank_vault/assets/79672264/80939c03-eb09-4dd0-a2e5-af36f51216d6)
 
 ![bank_vault3](https://github.com/zetafe1/arm_bank_vault/assets/79672264/ee0f8f07-b4d5-4992-801c-4c9a4410e235)
 
