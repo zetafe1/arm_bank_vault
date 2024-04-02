@@ -1,4 +1,4 @@
-![imagem](https://github.com/zetafe1/arm_bank_vault/assets/79672264/97cdf2f7-c6b1-4788-be9f-8eb2a9f3514e)# ARMADILLO BANK VAULT 
+# ARMADILLO BANK VAULT #
 
 drag and drop the files in some stream folder
 
