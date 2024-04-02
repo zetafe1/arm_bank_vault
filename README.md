@@ -2,7 +2,7 @@
 
 drag and drop the files in some stream folder
 
-vault's door starts loocked 
+vault's door starts locked 
 
 doorhashes on doorhashes.txt 
 
