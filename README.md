@@ -2,9 +2,10 @@
 
 drag and drop the files in some stream folder
 
-vault's door starts locked 
-
 doorhashes on doorhashes.txt 
+
+if you want vault's door starts locked use ytyp from that folder
+if you want vault's door starts open use ytyp from that folder
 
 
 ![bank_vault4](https://github.com/zetafe1/arm_bank_vault/assets/79672264/80939c03-eb09-4dd0-a2e5-af36f51216d6)
