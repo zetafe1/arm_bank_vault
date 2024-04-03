@@ -5,6 +5,7 @@ drag and drop the files in some stream folder
 doorhashes on doorhashes.txt 
 
 if you want vault's door starts locked use ytyp from that folder
+
 if you want vault's door starts open use ytyp from that folder
 
 
